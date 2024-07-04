@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stage1taskHng.API", "stage1taskHng.API.csproj", "{BFC62DCB-DF87-4CC4-8E85-63E62376B406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC62DCB-DF87-4CC4-8E85-63E62376B406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC62DCB-DF87-4CC4-8E85-63E62376B406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC62DCB-DF87-4CC4-8E85-63E62376B406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC62DCB-DF87-4CC4-8E85-63E62376B406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E17991B-62B3-4B5D-AE8A-357AA2F1A415}
+	EndGlobalSection
+EndGlobal

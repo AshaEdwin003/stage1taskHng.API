@@ -1,0 +1,6 @@
+@stage1taskHng.API_HostAddress = http://localhost:5128
+
+GET {{stage1taskHng.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
